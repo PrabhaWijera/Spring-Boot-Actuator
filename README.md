@@ -22,3 +22,6 @@ Classes: This tab displays information about classes loaded in the Java virtual 
 VM: This tab displays statistical information about the Java virtual machine. The summary includes uptime, indicating the amount of time since the JVM started; the process CPU time, indicating the amount of CPU time that JVM has consumed since it started; and the total compile time, indicating the time spent on the compilation process.
 
 MBeans: This tab displays information about MBeans. The MBeans include those currently running. We can get MBeanInfo descriptor information by selecting the MBean.
+
+# JMX
+Java Management Extensions (JMX) is a Java technology that supplies tools for managing and monitoring applications, system objects, devices (such as printers) and service-oriented networks.
