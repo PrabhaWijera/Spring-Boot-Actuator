@@ -8,8 +8,9 @@ Spring Boot Actuator,ANGULAR,SPRING BOOT
 ![image](https://github.com/PrabhaWijera/Spring-Boot-Actuator/assets/106425954/f5af65f9-daa4-462b-8db7-df809a0a471c)
 
 
-![image](https://github.com/PrabhaWijera/Spring-Boot-Actuator/assets/106425954/45d6a2d0-b11d-40e9-acc3-738631072cb1)
+ 
 JConsole presents information in the following tabs:
+![image](https://github.com/PrabhaWijera/Spring-Boot-Actuator/assets/106425954/93859149-b97c-4726-ba16-7c3bc645da39)
 
 Overview: This tab displays information about the JVM and values to be monitored. It presents the information in a graphical monitoring format. The information contains overview details on CPU usage, memory usage, thread counts, and the number of classes loaded in JVM.
 
