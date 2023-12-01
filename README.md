@@ -26,3 +26,10 @@ MBeans: This tab displays information about MBeans. The MBeans include those cur
 
 # JMX
 Java Management Extensions (JMX) is a Java technology that supplies tools for managing and monitoring applications, system objects, devices (such as printers) and service-oriented networks.
+
+# Angular
+![image](https://github.com/PrabhaWijera/Spring-Boot-Actuator/assets/106425954/99fcfdbc-a5af-4c6e-928f-bde27e49848c)
+![image](https://github.com/PrabhaWijera/Spring-Boot-Actuator/assets/106425954/a043c573-ede8-4100-a2d5-b91d0ea4e1c4)
+
+
+# Angular Http Config
